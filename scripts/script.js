@@ -5,8 +5,8 @@ function home() {
     main.setAttribute("class", "mainHome");
     main.innerHTML = 
         `<section id="content">
-            <h1>Diversas modalidades de treinos</h1>
-            <p>Obtenha bons resultados e alcance seus objetivos. Faça parte do nosso time! </p>
+            <h1>#vempraKÖRPER</h1>
+            <p>Musculação | Cross Training | Fitness | Bike Indoor | Funcional | Pilates | Capoeira | Jazz | Ballet | Estética.  </p>
         </section>`;
 }
 
